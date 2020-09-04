@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "eye"
+include ':java'
+//include ':libraries:opencv'
+
